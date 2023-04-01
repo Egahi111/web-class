@@ -1,1 +1,1 @@
-# web-class
+This is a practical project
